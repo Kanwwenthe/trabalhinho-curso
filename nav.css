@@ -1,0 +1,182 @@
+nav{
+    border: 1px solid rgb(255, 255, 0);
+    background-image: url(novo_site_projeto/imagens/HeroImage.png);
+     background-repeat: no-repeat;
+     height: 500px;
+     background-size: 570px;
+     background-position-x: 560px;
+    background-color: rgb(255, 231, 97,2.1);
+}
+.container-image{
+     left: 150px;
+     width: 320px;
+     position: relative;
+    top: 30px;
+    margin: 30px;
+    margin-left: 50px;
+    padding: 5px;
+    font-family: 
+     "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+     font-weight: bold;
+     font-size: 1.7em;
+}
+.saiba-Mais{
+    border: 1px solid rgb(0, 0, 0);
+    width: 100px; 
+    position: relative;
+    left: 220px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-family: 
+    "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    font-weight:bold;
+}
+ 
+ .saiba-Mais:hover{
+    color:black;
+    border: 1px solid yellow;
+    background-color: rgb(255, 255, 0);
+     transition: 1.2s ease-in;
+ }
+#title-nav{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-family:  "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji" ;
+}
+#title-nav:hover{
+     color: yellow;
+     transition: 2s ease-in;
+}
+ section{
+    margin: 0;
+     background-color: hsl(216, 28%, 7%);
+    height: 660px;
+   border: 1px solid black;
+ }
+ .container_curso_pai{
+     font-weight: bolder;
+    display: flex;
+    margin: 9px;
+    justify-content: center;
+    padding: 64px;
+ }
+.container_curso_html_css{
+    border:1px solid rgb(234, 203, 203);
+    border-radius: 5px;
+    padding: 1px;
+    margin: 9px;
+    height:310px;
+    width: 300px;
+    
+}
+.imagemcursos1{
+     margin: 0;
+    background-image: url(novo_site_projeto/imagens/curso-design-1.png);
+    height:130px;
+     border-radius: 5px;
+    background-size: 350px;
+    background-repeat: no-repeat;
+
+}
+.container_curso_javascript{
+    border: 1px solid  rgb(234, 203, 203);
+    border-radius: 5px;
+    padding: 1px;
+    margin: 9px;
+    height: 310px;width: 300px;
+}
+.imagecursos2{
+    background-image: url(novo_site_projeto/imagens/curso-design-2.png);
+    height:130px;
+    border-radius: 5px;
+   background-size: 399px;
+   background-repeat: no-repeat;
+}
+ 
+.container_curso_fullstack{
+    border: 1px solid  rgb(234, 203, 203);
+  
+    border-radius: 5px;
+    margin: 9px;
+    height: 310px;
+    width: 300px;
+}
+.imagecursos3{
+    border:none;
+    background-image: url(novo_site_projeto/imagens/curso-design.png);
+    height:130px;
+    border-radius: 5px;
+   background-size: 450px;
+   background-repeat: no-repeat;  }
+ #text{
+    color: white;
+    padding: 5px;
+    text-align: center;
+    font-size: small;
+    font-family:  "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji" ;
+ }
+ #text:hover{
+    color: rgb(255, 255, 0);
+    transition: 2s;
+ }
+#saiba-cursos{
+    text-align: center;
+    background-color: yellow;
+    border: 1px solid rgb(255, 255, 0);
+    border-radius: 5px;
+    width: 200px;
+    position: relative;
+    left: 560px;
+    font-family:  "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji" ;
+    font-weight: 700;
+}
+article{
+    background-image: url(novo_site_projeto/imagens/nossa-escola.png);
+    background-repeat: no-repeat;
+     
+   
+    width: 2000px;
+    height: 490px;
+    border: 1px solid yellow;
+
+    background-color:yellow;
+  
+}
+#quem_somos{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family:  "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+ #xxtext{
+    font-weight: 600;
+    text-align: center;
+     font-size: 15px;
+    font-family:  "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+ } 
+ .container_infor_tag{
+   padding: 20px;
+    width:422px;
+    position: relative;
+     left: 799px;
+     margin: 20px;
+     height:400px ;
+ }
+ footer{  
+    border: 1px solid rgb(0, 0, 0);
+    display: flex;
+    background-color: rgb(0, 0, 0);
+ }
+ .footer_div{
+    margin: 50px;
+ }
+ .informar{
+     color: white;
+    margin: 90px;
+    font-family: "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    font-weight: bold;
+ }
